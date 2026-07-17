@@ -33,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Vicky-pro/myleetcode/tree/master/0058-length-of-last-word) |
 | [1768-merge-strings-alternately](https://github.com/Vicky-pro/myleetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
