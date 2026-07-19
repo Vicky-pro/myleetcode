@@ -1,11 +1,30 @@
 class Solution {
-    public String shiftingLetters(String s, int[] shifts) {
-        char[] ch = s.toCharArray();
-        long shiftSum =0;
-        for(int i = shifts.length-1; i >=0 ; i--){
-            shiftSum  += shifts[i];
-            ch[i] = (char)('a' + (ch[i] -'a' + shiftSum) % 26);
+    public  String shiftingLetters(String s, int[] shifts) {
+        StringBuilder sb=new StringBuilder();
+        long sum = 0;
+        for(int num: shifts){
+            sum+=num;
         }
-        return new String(ch);
+        sb.append(Shift(s.charAt(0),sum));
+        for(int i=1;i<s.length();i++){
+            sum = sum - shifts[i-1];
+            sb.append(Shift(s.charAt(i), sum));
+        }
+        return sb.toString();
+    }
+    public  char Shift(char c, long num){
+        long shift=0;
+        if(num>=26){
+            shift = num%26;
+        }else{
+            shift = num;
+        }
+        shift = shift-96;
+        shift += c;
+        if(shift>26){
+            shift = shift%26;
+        }
+        shift = shift+96;
+        return (char)shift;
     }
 }
