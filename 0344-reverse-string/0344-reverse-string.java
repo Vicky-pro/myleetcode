@@ -9,7 +9,7 @@ class Solution {
             s[left++]=s[right];
             s[right--]=temp;
         }
-        System.out.println(Arrays.toString(s));
+        
     }
     //by recursion
     /*public void swap(char[] s,int left,int right){
