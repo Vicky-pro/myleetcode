@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vicky-pro/myleetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vicky-pro/myleetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vicky-pro/myleetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vicky-pro/myleetcode/tree/master/0231-power-of-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vicky-pro/myleetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vicky-pro/myleetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
