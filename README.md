@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Vicky-pro/myleetcode/tree/master/0704-binary-search) |
 | [0848-shifting-letters](https://github.com/Vicky-pro/myleetcode/tree/master/0848-shifting-letters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1929-concatenation-of-array](https://github.com/Vicky-pro/myleetcode/tree/master/1929-concatenation-of-array) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/Vicky-pro/myleetcode/tree/master/0848-shifting-letters) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Vicky-pro/myleetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
