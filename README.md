@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Vicky-pro/myleetcode/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/Vicky-pro/myleetcode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/Vicky-pro/myleetcode/tree/master/0848-shifting-letters) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Vicky-pro/myleetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Vicky-pro/myleetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Vicky-pro/myleetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Vicky-pro/myleetcode/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
