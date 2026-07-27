@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
 | [0704-binary-search](https://github.com/Vicky-pro/myleetcode/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/Vicky-pro/myleetcode/tree/master/0848-shifting-letters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1929-concatenation-of-array](https://github.com/Vicky-pro/myleetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Vicky-pro/myleetcode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Vicky-pro/myleetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Vicky-pro/myleetcode/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vicky-pro/myleetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vicky-pro/myleetcode/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/Vicky-pro/myleetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Vicky-pro/myleetcode/tree/master/2000-reverse-prefix-of-word) |
 ## String
@@ -85,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
