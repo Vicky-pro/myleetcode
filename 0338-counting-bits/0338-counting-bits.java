@@ -1,5 +1,9 @@
 class Solution {
-    public int[] countBits(int n) {
+    static{
+            for(int i=0;i<500;i++)
+            countBits(0);
+        }
+    public static int[] countBits(int n) {
         /*int[] arr = new int[n+1];
         for(int i=0;i<=n;i++){
             int temp =i;
@@ -15,6 +19,7 @@ class Solution {
             }
         }
         return arr;*/
+        
         int dp[] = new int[n+1];
         dp[0] = 0;
 
