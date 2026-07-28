@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vicky-pro/myleetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Vicky-pro/myleetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Vicky-pro/myleetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Vicky-pro/myleetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Vicky-pro/myleetcode/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vicky-pro/myleetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/Vicky-pro/myleetcode/tree/master/0401-binary-watch) |
 ## Matrix
 |  |
 | ------- |
