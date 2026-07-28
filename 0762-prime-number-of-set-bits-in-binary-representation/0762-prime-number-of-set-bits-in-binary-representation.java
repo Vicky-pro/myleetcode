@@ -1,22 +1,15 @@
 class Solution {
     public int countPrimeSetBits(int left, int right) {
         int num=left;
-        int nCount=0;
-        while(num<=right){
-            int temp=num;
-            int count=0;
-            while(temp>0){
+        int count = 0;
+        for (int i = left; i <= right; i++) {
+            if (isPrime(Integer.bitCount(i))) {
                 count++;
-                temp &= (temp-1);
             }
-            if(is_Prime(count)){
-                nCount++;
-            }
-            num++;
         }
-        return nCount;
+        return count;
     }
-    public boolean is_Prime(int n){
+    public boolean isPrime(int n){
         if(n == 0 || n == 1){
             return false;
         }else {
