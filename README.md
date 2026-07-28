@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vicky-pro/myleetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vicky-pro/myleetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vicky-pro/myleetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Vicky-pro/myleetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Vicky-pro/myleetcode/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vicky-pro/myleetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/Vicky-pro/myleetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
