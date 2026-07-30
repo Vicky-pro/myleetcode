@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vicky-pro/myleetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Vicky-pro/myleetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Vicky-pro/myleetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vicky-pro/myleetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vicky-pro/myleetcode/tree/master/0326-power-of-three) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vicky-pro/myleetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Vicky-pro/myleetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Vicky-pro/myleetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vicky-pro/myleetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Vicky-pro/myleetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
