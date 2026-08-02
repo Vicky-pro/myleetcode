@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vicky-pro/myleetcode/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vicky-pro/myleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vicky-pro/myleetcode/tree/master/0704-binary-search) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vicky-pro/myleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Vicky-pro/myleetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Vicky-pro/myleetcode/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
