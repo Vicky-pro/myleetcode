@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vicky-pro/myleetcode/tree/master/0136-single-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vicky-pro/myleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vicky-pro/myleetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vicky-pro/myleetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Vicky-pro/myleetcode/tree/master/0344-reverse-string) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Vicky-pro/myleetcode/tree/master/0202-happy-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Combinatorics
