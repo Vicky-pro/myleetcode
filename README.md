@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/Vicky-pro/myleetcode/tree/master/0848-shifting-letters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1499-max-value-of-equation](https://github.com/Vicky-pro/myleetcode/tree/master/1499-max-value-of-equation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Vicky-pro/myleetcode/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vicky-pro/myleetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -167,4 +168,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vicky-pro/myleetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/Vicky-pro/myleetcode/tree/master/1499-max-value-of-equation) |
+## Sliding Window
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/Vicky-pro/myleetcode/tree/master/1499-max-value-of-equation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/Vicky-pro/myleetcode/tree/master/1499-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/Vicky-pro/myleetcode/tree/master/1499-max-value-of-equation) |
 <!---LeetCode Topics End-->
