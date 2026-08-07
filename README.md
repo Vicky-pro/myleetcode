@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Vicky-pro/myleetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Vicky-pro/myleetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vicky-pro/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vicky-pro/myleetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Vicky-pro/myleetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Vicky-pro/myleetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vicky-pro/myleetcode/tree/master/0051-n-queens) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vicky-pro/myleetcode/tree/master/0037-sudoku-solver) |
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0867-transpose-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Vicky-pro/myleetcode/tree/master/1219-path-with-maximum-gold) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vicky-pro/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Vicky-pro/myleetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Vicky-pro/myleetcode/tree/master/0202-happy-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -218,5 +222,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vicky-pro/myleetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vicky-pro/myleetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vicky-pro/myleetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
