@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Vicky-pro/myleetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Vicky-pro/myleetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0090-subsets-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vicky-pro/myleetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Vicky-pro/myleetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Vicky-pro/myleetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/Vicky-pro/myleetcode/tree/master/0401-binary-watch) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vicky-pro/myleetcode/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Vicky-pro/myleetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
