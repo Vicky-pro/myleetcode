@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/Vicky-pro/myleetcode/tree/master/0401-binary-watch) |
+| [0797-all-paths-from-source-to-target](https://github.com/Vicky-pro/myleetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1219-path-with-maximum-gold](https://github.com/Vicky-pro/myleetcode/tree/master/1219-path-with-maximum-gold) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vicky-pro/myleetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
@@ -228,4 +229,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vicky-pro/myleetcode/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Vicky-pro/myleetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Vicky-pro/myleetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Vicky-pro/myleetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Vicky-pro/myleetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
