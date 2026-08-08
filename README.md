@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Vicky-pro/myleetcode/tree/master/0136-single-number) |
+| [0526-beautiful-arrangement](https://github.com/Vicky-pro/myleetcode/tree/master/0526-beautiful-arrangement) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vicky-pro/myleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vicky-pro/myleetcode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Vicky-pro/myleetcode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Vicky-pro/myleetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Vicky-pro/myleetcode/tree/master/0476-number-complement) |
+| [0526-beautiful-arrangement](https://github.com/Vicky-pro/myleetcode/tree/master/0526-beautiful-arrangement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vicky-pro/myleetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vicky-pro/myleetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vicky-pro/myleetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vicky-pro/myleetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Vicky-pro/myleetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Vicky-pro/myleetcode/tree/master/0509-fibonacci-number) |
+| [0526-beautiful-arrangement](https://github.com/Vicky-pro/myleetcode/tree/master/0526-beautiful-arrangement) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/Vicky-pro/myleetcode/tree/master/0401-binary-watch) |
+| [0526-beautiful-arrangement](https://github.com/Vicky-pro/myleetcode/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/Vicky-pro/myleetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1219-path-with-maximum-gold](https://github.com/Vicky-pro/myleetcode/tree/master/1219-path-with-maximum-gold) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vicky-pro/myleetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Vicky-pro/myleetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Vicky-pro/myleetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
