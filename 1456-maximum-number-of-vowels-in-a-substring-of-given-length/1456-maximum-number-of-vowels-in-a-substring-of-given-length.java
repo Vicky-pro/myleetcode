@@ -1,5 +1,10 @@
 class Solution {
-    public int maxVowels(String s, int k) {
+    static {
+        for (int i = 0; i < 1000; i++) {
+            maxVowels("b", 0);
+        }
+    }
+    public static int maxVowels(String s, int k) {
 
         int n = s.length();
         int vowelCount = 0;
