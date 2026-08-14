@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vicky-pro/myleetcode/tree/master/0392-is-subsequence) |
 | [0848-shifting-letters](https://github.com/Vicky-pro/myleetcode/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/Vicky-pro/myleetcode/tree/master/0925-long-pressed-name) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vicky-pro/myleetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vicky-pro/myleetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/Vicky-pro/myleetcode/tree/master/1768-merge-strings-alternately) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vicky-pro/myleetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1499-max-value-of-equation](https://github.com/Vicky-pro/myleetcode/tree/master/1499-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
