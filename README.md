@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vicky-pro/myleetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vicky-pro/myleetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Vicky-pro/myleetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Vicky-pro/myleetcode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vicky-pro/myleetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/Vicky-pro/myleetcode/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vicky-pro/myleetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Vicky-pro/myleetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vicky-pro/myleetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1499-max-value-of-equation](https://github.com/Vicky-pro/myleetcode/tree/master/1499-max-value-of-equation) |
+| [1512-number-of-good-pairs](https://github.com/Vicky-pro/myleetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Vicky-pro/myleetcode/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vicky-pro/myleetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0229-majority-element-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/Vicky-pro/myleetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2404-most-frequent-even-element](https://github.com/Vicky-pro/myleetcode/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Vicky-pro/myleetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/Vicky-pro/myleetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2404-most-frequent-even-element](https://github.com/Vicky-pro/myleetcode/tree/master/2404-most-frequent-even-element) |
 ## Combinatorics
