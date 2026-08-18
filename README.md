@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vicky-pro/myleetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Vicky-pro/myleetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Vicky-pro/myleetcode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Vicky-pro/myleetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vicky-pro/myleetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vicky-pro/myleetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Vicky-pro/myleetcode/tree/master/0202-happy-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vicky-pro/myleetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Vicky-pro/myleetcode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Vicky-pro/myleetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/0088-merge-sorted-array) |
