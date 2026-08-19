@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vicky-pro/myleetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Vicky-pro/myleetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Vicky-pro/myleetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Vicky-pro/myleetcode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0867-transpose-matrix) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vicky-pro/myleetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0867-transpose-matrix) |
