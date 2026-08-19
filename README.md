@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Vicky-pro/myleetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0989-add-to-array-form-of-integer](https://github.com/Vicky-pro/myleetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vicky-pro/myleetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vicky-pro/myleetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vicky-pro/myleetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Vicky-pro/myleetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Vicky-pro/myleetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vicky-pro/myleetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1219-path-with-maximum-gold](https://github.com/Vicky-pro/myleetcode/tree/master/1219-path-with-maximum-gold) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vicky-pro/myleetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Vicky-pro/myleetcode/tree/master/1470-shuffle-the-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vicky-pro/myleetcode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0867-transpose-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vicky-pro/myleetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Vicky-pro/myleetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vicky-pro/myleetcode/tree/master/1929-concatenation-of-array) |
