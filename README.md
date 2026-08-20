@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Vicky-pro/myleetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Vicky-pro/myleetcode/tree/master/1720-decode-xored-array) |
+| [1854-maximum-population-year](https://github.com/Vicky-pro/myleetcode/tree/master/1854-maximum-population-year) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vicky-pro/myleetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Vicky-pro/myleetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vicky-pro/myleetcode/tree/master/1929-concatenation-of-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Vicky-pro/myleetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1854-maximum-population-year](https://github.com/Vicky-pro/myleetcode/tree/master/1854-maximum-population-year) |
 | [2404-most-frequent-even-element](https://github.com/Vicky-pro/myleetcode/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0848-shifting-letters](https://github.com/Vicky-pro/myleetcode/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Vicky-pro/myleetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/Vicky-pro/myleetcode/tree/master/1854-maximum-population-year) |
 ## Binary Search
 |  |
 | ------- |
