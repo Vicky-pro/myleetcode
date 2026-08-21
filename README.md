@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vicky-pro/myleetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vicky-pro/myleetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vicky-pro/myleetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vicky-pro/myleetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Vicky-pro/myleetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Vicky-pro/myleetcode/tree/master/1512-number-of-good-pairs) |
@@ -330,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vicky-pro/myleetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vicky-pro/myleetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
