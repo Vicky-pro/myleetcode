@@ -9,6 +9,7 @@ class Solution {
             product *= dig;
             temp /= 10;
         }
-        return n%(sum+product) == 0;
+        int tSum = sum+product;
+        return n%tSum == 0;
     }
 }
