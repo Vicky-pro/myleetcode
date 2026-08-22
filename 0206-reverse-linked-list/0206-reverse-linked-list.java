@@ -12,18 +12,22 @@ class Solution {
     public ListNode reverseList(ListNode head) {
         if(head == null || head.next == null){return head;}
 
-        if(head.next.next == null){
+        /*if(head.next.next == null){
             head.next.next = head;
             ListNode temp = head.next;
             head.next = null;
             return  temp;
-        }
+        }*/
 
         ListNode A = head;
         ListNode B = A.next;
         ListNode C = B.next;
         A.next = null;
         while(true){
+            if(C == null){
+                B.next = A;
+                return B;
+            }
             if(C.next == null){
                 C.next = B;
                 B.next = A;
