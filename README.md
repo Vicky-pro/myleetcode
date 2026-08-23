@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Vicky-pro/myleetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Vicky-pro/myleetcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vicky-pro/myleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vicky-pro/myleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vicky-pro/myleetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Vicky-pro/myleetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Vicky-pro/myleetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Vicky-pro/myleetcode/tree/master/0392-is-subsequence) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vicky-pro/myleetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Vicky-pro/myleetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/0191-number-of-1-bits) |
 ## Hash Table
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vicky-pro/myleetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Vicky-pro/myleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vicky-pro/myleetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vicky-pro/myleetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vicky-pro/myleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Vicky-pro/myleetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
