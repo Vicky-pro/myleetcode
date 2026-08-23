@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Vicky-pro/myleetcode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vicky-pro/myleetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/Vicky-pro/myleetcode/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/Vicky-pro/myleetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vicky-pro/myleetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vicky-pro/myleetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vicky-pro/myleetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vicky-pro/myleetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/Vicky-pro/myleetcode/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/Vicky-pro/myleetcode/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Vicky-pro/myleetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vicky-pro/myleetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vicky-pro/myleetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1927-sum-game](https://github.com/Vicky-pro/myleetcode/tree/master/1927-sum-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vicky-pro/myleetcode/tree/master/0148-sort-list) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Vicky-pro/myleetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
