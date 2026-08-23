@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Vicky-pro/myleetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Vicky-pro/myleetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Vicky-pro/myleetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0206-reverse-linked-list) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Vicky-pro/myleetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vicky-pro/myleetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vicky-pro/myleetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
