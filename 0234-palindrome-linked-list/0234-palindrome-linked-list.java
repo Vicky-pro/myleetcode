@@ -22,13 +22,13 @@ class Solution {
         } 
         while (node!= temp && node2 != mid.next){
             if (node.val != node2.val) {
-                Head = reversePali(Head,temp,mid);
+                //Head = reversePali(Head,temp,mid);
                 return false;
             }
             node2 = node2.next;
             node=node.next;
         }
-        Head = reversePali(Head,temp,mid);
+        //Head = reversePali(Head,temp,mid);
         return true;
     }
     private ListNode getMid(ListNode head){
