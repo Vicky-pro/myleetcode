@@ -1,17 +1,20 @@
 class Solution {
     public int findSpecialInteger(int[] arr) {
-        int size = arr.length/4;
-         int n=arr.length;
-         HashMap<Integer,Integer> map = new HashMap<>();
-         for (int i=0;i<n;i++){
-             map.put(arr[i],map.getOrDefault(arr[i],0)+1);
-         }
-
-         for (int i: map.keySet()){
-             if(map.get(i)>size){
-                return i;
-             }
-         }
-        return 0;
+        int vote=0;
+        int count=0;
+        int ans=arr[0];
+        for(int i=1;i<arr.length;i++){
+            if(arr[i] != arr[i-1]){
+                count=0;
+            }
+            count++;
+            
+            if(count >= vote){
+                ans=arr[i];
+                vote=count;
+            }
+            
+        }
+        return ans;
     }
 }
