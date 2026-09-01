@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vicky-pro/myleetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1219-path-with-maximum-gold](https://github.com/Vicky-pro/myleetcode/tree/master/1219-path-with-maximum-gold) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vicky-pro/myleetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Vicky-pro/myleetcode/tree/master/1470-shuffle-the-array) |
