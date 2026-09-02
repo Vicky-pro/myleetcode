@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vicky-pro/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vicky-pro/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Vicky-pro/myleetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vicky-pro/myleetcode/tree/master/0022-generate-parentheses) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vicky-pro/myleetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vicky-pro/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vicky-pro/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Vicky-pro/myleetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vicky-pro/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vicky-pro/myleetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1499-max-value-of-equation](https://github.com/Vicky-pro/myleetcode/tree/master/1499-max-value-of-equation) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vicky-pro/myleetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
