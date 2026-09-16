@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Vicky-pro/myleetcode/tree/master/1219-path-with-maximum-gold) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1324-print-words-vertically](https://github.com/Vicky-pro/myleetcode/tree/master/1324-print-words-vertically) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vicky-pro/myleetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vicky-pro/myleetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Vicky-pro/myleetcode/tree/master/1470-shuffle-the-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1324-print-words-vertically](https://github.com/Vicky-pro/myleetcode/tree/master/1324-print-words-vertically) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vicky-pro/myleetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Vicky-pro/myleetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vicky-pro/myleetcode/tree/master/1929-concatenation-of-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vicky-pro/myleetcode/tree/master/0392-is-subsequence) |
 | [0848-shifting-letters](https://github.com/Vicky-pro/myleetcode/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/Vicky-pro/myleetcode/tree/master/0925-long-pressed-name) |
+| [1324-print-words-vertically](https://github.com/Vicky-pro/myleetcode/tree/master/1324-print-words-vertically) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vicky-pro/myleetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vicky-pro/myleetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
