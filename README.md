@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Vicky-pro/myleetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Vicky-pro/myleetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Vicky-pro/myleetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vicky-pro/myleetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Vicky-pro/myleetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vicky-pro/myleetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Vicky-pro/myleetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Vicky-pro/myleetcode/tree/master/0392-is-subsequence) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Vicky-pro/myleetcode/tree/master/0055-jump-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vicky-pro/myleetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1927-sum-game](https://github.com/Vicky-pro/myleetcode/tree/master/1927-sum-game) |
 ## Number Theory
