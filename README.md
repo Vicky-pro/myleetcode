@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vicky-pro/myleetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Vicky-pro/myleetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Vicky-pro/myleetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Vicky-pro/myleetcode/tree/master/0394-decode-string) |
 | [0848-shifting-letters](https://github.com/Vicky-pro/myleetcode/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/Vicky-pro/myleetcode/tree/master/0925-long-pressed-name) |
 | [1324-print-words-vertically](https://github.com/Vicky-pro/myleetcode/tree/master/1324-print-words-vertically) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vicky-pro/myleetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Vicky-pro/myleetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Vicky-pro/myleetcode/tree/master/0394-decode-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Vicky-pro/myleetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Prefix Sum
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Vicky-pro/myleetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vicky-pro/myleetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Vicky-pro/myleetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Vicky-pro/myleetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vicky-pro/myleetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vicky-pro/myleetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
