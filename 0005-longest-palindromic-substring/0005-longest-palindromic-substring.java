@@ -5,24 +5,32 @@ public class Solution {
         }
 
         int maxLen = 1;
-        int start = 0;
-        int end = 0;
-        boolean[][] dp = new boolean[s.length()][s.length()];
+        String maxStr = s.substring(0, 1);
+        s = "#" + s.replaceAll("", "#") + "#";
+        int[] dp = new int[s.length()];
+        int center = 0;
+        int right = 0;
 
-        for (int i = 0; i < s.length(); ++i) {
-            dp[i][i] = true;
-            for (int j = 0; j < i; ++j) {
-                if (s.charAt(j) == s.charAt(i) && (i - j <= 2 || dp[j + 1][i - 1])) {
-                    dp[j][i] = true;
-                    if (i - j + 1 > maxLen) {
-                        maxLen = i - j + 1;
-                        start = j;
-                        end = i;
-                    }
-                }
+        for (int i = 0; i < s.length(); i++) {
+            if (i < right) {
+                dp[i] = Math.min(right - i, dp[2 * center - i]);
+            }
+
+            while (i - dp[i] - 1 >= 0 && i + dp[i] + 1 < s.length() && s.charAt(i - dp[i] - 1) == s.charAt(i + dp[i] + 1)) {
+                dp[i]++;
+            }
+
+            if (i + dp[i] > right) {
+                center = i;
+                right = i + dp[i];
+            }
+
+            if (dp[i] > maxLen) {
+                maxLen = dp[i];
+                maxStr = s.substring(i - dp[i], i + dp[i] + 1).replaceAll("#", "");
             }
         }
 
-        return s.substring(start, end + 1);
+        return maxStr;
     }
 }
