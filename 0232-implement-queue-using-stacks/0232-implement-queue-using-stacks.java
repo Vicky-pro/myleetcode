@@ -1,31 +1,41 @@
 class MyQueue {
-    Stack<Integer> first;
-    Stack<Integer> second;
+
+    Stack<Integer> stk;
+    Stack<Integer> stkReverse;
     public MyQueue() {
-        first = new Stack<>();
-        second = new Stack<>();
+        stk = new Stack<>();
+        stkReverse = new Stack<>();
     }
     
+   
     public void push(int x) {
-        while(!first.empty()){
-            second.push(first.pop());
-        }
-        second.push(x);
-        while(!second.empty()){
-            first.push(second.pop());
-        }
+        stk.add(x);
     }
     
     public int pop() {
-        return first.pop();
+        if (!stkReverse.isEmpty()) {
+            return stkReverse.pop();
+        } else {
+            while(!stk.isEmpty()) {
+                stkReverse.add(stk.pop());
+            }
+            return stkReverse.pop();
+        }
     }
     
     public int peek() {
-        return first.peek();
+         if (!stkReverse.isEmpty()) {
+            return stkReverse.peek();
+         } else {
+            while(!stk.isEmpty()) {
+                stkReverse.add(stk.pop());
+            }
+            return stkReverse.peek();
+         }
     }
     
     public boolean empty() {
-        return first.empty();
+        return stkReverse.size() == 0 && stk.size() == 0;
     }
 }
 
