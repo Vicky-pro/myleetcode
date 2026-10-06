@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vicky-pro/myleetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Vicky-pro/myleetcode/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Vicky-pro/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Vicky-pro/myleetcode/tree/master/0394-decode-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Vicky-pro/myleetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Vicky-pro/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1499-max-value-of-equation](https://github.com/Vicky-pro/myleetcode/tree/master/1499-max-value-of-equation) |
 ## Sliding Window
 |  |
@@ -420,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vicky-pro/myleetcode/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Vicky-pro/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
