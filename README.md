@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Vicky-pro/myleetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vicky-pro/myleetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -433,4 +434,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vicky-pro/myleetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/Vicky-pro/myleetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
