@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vicky-pro/myleetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vicky-pro/myleetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vicky-pro/myleetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3664-two-letter-card-game](https://github.com/Vicky-pro/myleetcode/tree/master/3664-two-letter-card-game) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1854-maximum-population-year](https://github.com/Vicky-pro/myleetcode/tree/master/1854-maximum-population-year) |
 | [2404-most-frequent-even-element](https://github.com/Vicky-pro/myleetcode/tree/master/2404-most-frequent-even-element) |
+| [3664-two-letter-card-game](https://github.com/Vicky-pro/myleetcode/tree/master/3664-two-letter-card-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Vicky-pro/myleetcode/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Vicky-pro/myleetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vicky-pro/myleetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3664-two-letter-card-game](https://github.com/Vicky-pro/myleetcode/tree/master/3664-two-letter-card-game) |
 ## Stack
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vicky-pro/myleetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2404-most-frequent-even-element](https://github.com/Vicky-pro/myleetcode/tree/master/2404-most-frequent-even-element) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vicky-pro/myleetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3664-two-letter-card-game](https://github.com/Vicky-pro/myleetcode/tree/master/3664-two-letter-card-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vicky-pro/myleetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vicky-pro/myleetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3664-two-letter-card-game](https://github.com/Vicky-pro/myleetcode/tree/master/3664-two-letter-card-game) |
 ## Queue
 |  |
 | ------- |
