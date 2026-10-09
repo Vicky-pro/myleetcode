@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Vicky-pro/myleetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vicky-pro/myleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Vicky-pro/myleetcode/tree/master/0728-self-dividing-numbers) |
+| [0754-reach-a-number](https://github.com/Vicky-pro/myleetcode/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vicky-pro/myleetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vicky-pro/myleetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0989-add-to-array-form-of-integer](https://github.com/Vicky-pro/myleetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/Vicky-pro/myleetcode/tree/master/0704-binary-search) |
+| [0754-reach-a-number](https://github.com/Vicky-pro/myleetcode/tree/master/0754-reach-a-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vicky-pro/myleetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
