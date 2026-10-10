@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vicky-pro/myleetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Vicky-pro/myleetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Vicky-pro/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Vicky-pro/myleetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Vicky-pro/myleetcode/tree/master/0088-merge-sorted-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vicky-pro/myleetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Vicky-pro/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Vicky-pro/myleetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Vicky-pro/myleetcode/tree/master/0867-transpose-matrix) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vicky-pro/myleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Vicky-pro/myleetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Vicky-pro/myleetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Vicky-pro/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Vicky-pro/myleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vicky-pro/myleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Vicky-pro/myleetcode/tree/master/0202-happy-number) |
